@@ -1,5 +1,8 @@
 _repo: Barlasch-of-the-Guard_8158
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Merriman, Henry Seton
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1312
     wikipedia: http://en.wikipedia.org/wiki/Hugh_Stowell_Scott
 description: Engelsk roman af H. S. Merriman 1903 om Felttoget i Rusland 1812.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8158#Barlasch-of-the-Guard
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
